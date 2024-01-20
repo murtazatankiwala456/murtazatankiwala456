@@ -1,4 +1,4 @@
-### Hi, I am Murtaza👋 I am a Developer, Teacher, and Researcher🕵🏼‍♂️!
+### Hi, I am Murtaza 👋I am a Developer, Teacher, and Researcher🕵🏼‍♂️!
 - 🔭 I’m currently working on my skills
 - 🌱 I’m currently learning  full stack development
 - 👯 I’m looking to collaborate on projects for free but I want some favor in exchange
