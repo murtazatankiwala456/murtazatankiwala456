@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on my skills
 - 🌱 I’m currently learning  full stack development
 - 👯 I’m looking to collaborate on projects for free but I want some favor in exchange
-- 🤔 I’m looking for help with clearing your doubts about what I know
+- 🤔 I’m looking for help with clearing your doubts about what I knew
 - 💬 Ask me about online courses, writing tips, memorizing tips and much more...
 - 📫 How to reach me: email me at:- murtazashabbir14@gmail.com or message me on linkedin [https://www.linkedin.com/in/murtaza-tankiwala-486782268/]
 - 
