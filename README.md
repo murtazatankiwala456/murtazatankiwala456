@@ -1,7 +1,7 @@
 Hi 👋 My name is Murtaza
 ========================
 
-Developer, Teacher, and Reasearcher
+Developer, Teacher, and Researcher
 -----------------------------------
 
 I'm passionate about the world of technology and strive to be a perpetual learner in the ever-evolving landscape of full-stack development. Currently on an exciting journey of mastering both frontend and backend technologies, I love building robust and innovative solutions that make a real impact.
