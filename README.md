@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with clearing your doubts about what I knew
 - 💬 Ask me about online courses, writing tips, memorizing tips and much more...
 - 📫 How to reach me: email me at:- murtazashabbir14@gmail.com or message me on linkedin [https://www.linkedin.com/in/murtaza-tankiwala-486782268/]
-- 
+  
 
 <!--
 **murtazatankiwala456/murtazatankiwala456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
