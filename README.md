@@ -9,7 +9,7 @@ I'm passionate about the world of technology and strive to be a perpetual learne
 * 🌍  I'm based in Indore ,India
 * ✉️  You can contact me at [murtazashabbir14@gmail.com](mailto:murtazashabbir14@gmail.com)
 * 🧠  I'm learning full stack development
-* 🤝  I'm open to collaborating on projects for free but in exchange, I want litlle favor.
+* 🤝  I'm open to collaborating on projects for free but in exchange,if I can ask for a favour.
 * 💻 My Blog [https://sharewhilelearning.wordpress.com/]
 
 ### Skills
