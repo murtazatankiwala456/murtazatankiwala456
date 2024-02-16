@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Murtaza
 ===============================================================================================================================
 
-Teacher and Developer
+I am a Teacher and Developer
 -----------------------------------
 
 I'm passionate about the world of technology and strive to be a perpetual learner in the ever-evolving landscape of full-stack development. Currently on an exciting journey of mastering both frontend and backend technologies, I love building robust and innovative solutions that make a real impact.
