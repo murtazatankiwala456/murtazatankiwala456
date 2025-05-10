@@ -8,9 +8,9 @@ I'm passionate about the world of technology and strive to be a perpetual learne
 
 * 🌍  I'm based in Indore ,India
 * ✉️  You can contact me at [murtazashabbir14@gmail.com](mailto:murtazashabbir14@gmail.com)
-* 🧠  I'm learning full stack development
-* 🤝  I'm open to collaborating on projects for free but in exchange,if I can ask for a favour.
-* 💻 My Blog [https://sharewhilelearning.wordpress.com/]
+* 🧠  I'm Backend developer using c#
+* 🤝  I'm also revising react nowadays.
+* 💻 My website [https://murtazatankiwala.netlify.app]
 
 ### Skills
 
